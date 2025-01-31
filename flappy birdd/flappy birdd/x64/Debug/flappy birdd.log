@@ -1,0 +1,7 @@
+﻿  s3.cpp
+C:\Users\Toshiba\Desktop\flappy birdd\s3.cpp(54,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Toshiba\Desktop\flappy birdd\s3.cpp(215,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Toshiba\Desktop\flappy birdd\s3.cpp(223,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Toshiba\Desktop\flappy birdd\s3.cpp(240,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Toshiba\Desktop\flappy birdd\s3.cpp(248,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  flappy birdd.vcxproj -> C:\Users\Toshiba\Desktop\flappy birdd\x64\Debug\flappy birdd.exe
